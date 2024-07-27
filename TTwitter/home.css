@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: #181B24;
+
+}
+
+.TopoPag{
+
+    background-color: #14161D;
+    height: 95px;
+    position: relative;
+}
+
+.Busca{
+    position:absolute;
+    top:10px
+}
+.Search{
+    padding: 0px 18px;
+    opacity: 20%;
+    width: 735px;
+    height: 35px;
+    position: absolute;
+    margin-top: 30px;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+.Imagens img{
+    height: 47px;
+    display: block;
+    align-items: column;
+    margin-bottom: 24px;
+}
+
+.Imagens{
+    margin-top: 47px;
+    margin-left: 36px;
+}
+
+#LupadaBusca{
+    position: absolute;
+    left:910px;
+    top:37px;
+}
+
+.NewMsg{
+    position: absolute;
+    left: 195px;
+    top: 132px;
+}
+.BlocoMsg{
+    font-size: 17px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    width: 706px; 
+    height: 41px; 
+    background-color: #181B24;
+    border: 1px solid #484848; 
+    border-radius: 20px;
+    padding: 0px 31px;
+    padding-top: 15px;
+    padding-bottom: 100px;
+
+}
+
+.Post{
+    font-weight: bold;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    color: #000000;
+    background-color: #22A2F2;
+    border-radius: 10px;
+    margin-top: -55px;
+    margin-left: 620px;
+    box-shadow: none;
+    padding: 0px;
+    border-color:#22A2F2;
+
+}
+
+#Frame_input{
+    position: absolute;
+    margin-left: 31px;
+    margin-top: -40px;
+}
+
+.BlocoMsg::placeholder{
+    color: white;
+}
+
+.Box{ 
+    position: absolute;
+    left: 195px;
+    bottom: 12px;
+    border-color: antiquewhite;
+    border: 1px solid #484848;
+    background-color: #181B24;
+    border-radius: 10px;
+    width: 767px;
+    height: 680px;
+    margin-bottom: -50px;
+    
+}
+
+#Garota{
+    margin-top: 47px;
+    width: 500px;
+    height: 500px;
+    margin-left: 130px;
+}
+
+#React{
+    position: absolute;
+    bottom: 80px;
+    right: 140px;
+}
+
+.Msg{
+    position: absolute;
+    bottom: -20px;
+    left: 320px;
+    color:#FFFFFF;
+    opacity: 60%;
+}
+
+.UserName{
+    font-weight: none;
+    font-size: 27px;
+    position: absolute;
+    color: white;
+    top: 4px;
+    left: 60px;
+}
+.UserPost{
+    position: absolute;
+    bottom: 30px;
+    left: 330px;
+}
+
+.NewUsers{
+    height: 47px;
+    display: block;
+    align-items: column;
+     bottom: 10px;
+    margin-top: 30px;
+}
+
+.Recomendacao{
+    position:absolute;
+    right: 320px;
+    top:132px;
+
+}
+
+.Botao{
+    color:#22A2F2 ;
+    position: absolute;
+    width: 90px;
+    height: 32px;
+    left: 220px;
+    background-color: #222222;
+    border-radius: 15px;
+    border-color: #222222;
+    box-shadow: none;
+
+}
+
+.NewUserName{
+    margin-bottom: 102222px;
+    display: block;
+    align-items: column;
+    color: white;
+    position: absolute;
+    left:60px
+}
